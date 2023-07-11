@@ -1,0 +1,8 @@
+To play game, go inside the 'Only.Up.v2023.07.04' folder, right click and run 'OnlyUP' as administrator
+
+If you get any missing dll errors or the game isn't launching, go inside the _Redist folder and install all 8 programs in the folder
+
+If you dont see the 'Only.Up.v2023.07.04' folder then run then run the "Only.up-builder" file to build the folder
+
+You might need to turn off your anti virus and windows security to run the "Only.up-builder" file
+
